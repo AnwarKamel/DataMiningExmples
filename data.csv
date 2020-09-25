@@ -1,0 +1,11 @@
+N,Age,S1,S2,Risque
+1,Jeune,F,V,Faible
+2,Jeune,V,V,Elevé
+3,Adulte,F,F,Faible
+4,Senior,V,F,Elevé
+5,Senior,F,V,Moyen
+6,Jeune,F,F,Faible
+7,Adulte,V,F,Moyen
+8,Adulte,V,V,Moyen
+9,Senior,F,F,Faible
+10,Senior,V,V,Elevé
